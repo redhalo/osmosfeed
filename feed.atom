@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-01T01:40:15.832Z</id>
+    <id>urn:2022-10-02T01:25:19.122Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-01T01:40:15.832Z</updated>
+    <updated>2022-10-02T01:25:19.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -216,30 +216,6 @@ Support the Ministry of Education, Department 45: https://t.co/lSuoZLP2jQ pic.tw
         <updated>2022-09-06T16:06:40.000Z</updated>
         <summary type="html"><![CDATA[pic.twitter.com/FNHSz4JTWv
 — 𝙁𝙊𝙍𝙂𝙊𝙏𝙏𝙀𝙉_𝙑𝘾𝙍 (@forgottenvcr) September 6, 2022]]></summary>
-        <author>
-            <name>@forgottenvcr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@forgottenvcr: 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎𝙏𝙊𝙉𝙄𝙂𝙃𝙏 𝘼𝙏 8:30 𝘾𝙀𝙉𝙏𝙍𝘼𝙇 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎]]></title>
-        <id>026b44ab0f5afb2bbdb9ad30518eb8be</id>
-        <link href="https://twitter.com/forgottenvcr/status/1565357038909235201"/>
-        <updated>2022-09-01T15:12:55.000Z</updated>
-        <summary type="html"><![CDATA[𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎
-𝙏𝙊𝙉𝙄𝙂𝙃𝙏 𝘼𝙏 8:30 𝘾𝙀𝙉𝙏𝙍𝘼𝙇https://t.co/XOCGUKcWU0
-𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
-— 𝙁𝙊𝙍𝙂𝙊𝙏𝙏𝙀𝙉_𝙑𝘾𝙍 (@forgottenvcr) September 1, 2022]]></summary>
-        <author>
-            <name>@forgottenvcr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@forgottenvcr:]]></title>
-        <id>b949194611b4499724d1635880c5b9f3</id>
-        <link href="https://twitter.com/forgottenvcr/status/1565357035205664769"/>
-        <updated>2022-09-01T15:12:54.000Z</updated>
-        <summary type="html"><![CDATA[pic.twitter.com/tMsfWccbYi
-— 𝙁𝙊𝙍𝙂𝙊𝙏𝙏𝙀𝙉_𝙑𝘾𝙍 (@forgottenvcr) September 1, 2022]]></summary>
         <author>
             <name>@forgottenvcr</name>
         </author>
