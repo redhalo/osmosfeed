@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-02T01:25:19.122Z</id>
+    <id>urn:2022-10-03T01:14:31.051Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-02T01:25:19.122Z</updated>
+    <updated>2022-10-03T01:14:31.051Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[@forgottenvcr: 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎𝙏𝙊𝙉𝙄𝙂𝙃𝙏 𝘼𝙏 8:30 𝘾𝙀𝙉𝙏𝙍𝘼𝙇 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎]]></title>
+        <id>65993496932068a37255c32ed98c1697</id>
+        <link href="https://twitter.com/forgottenvcr/status/1576616861328093184"/>
+        <updated>2022-10-02T16:55:26.000Z</updated>
+        <summary type="html"><![CDATA[𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎
+𝙏𝙊𝙉𝙄𝙂𝙃𝙏 𝘼𝙏 8:30 𝘾𝙀𝙉𝙏𝙍𝘼𝙇https://t.co/XOCGUKduJy
+𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
+— 𝙁𝙊𝙍𝙂𝙊𝙏𝙏𝙀𝙉_𝙑𝘾𝙍 (@forgottenvcr) October 2, 2022]]></summary>
+        <author>
+            <name>@forgottenvcr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@forgottenvcr:]]></title>
+        <id>9de63bea8474bdd72eee0ef363a3a7c7</id>
+        <link href="https://twitter.com/forgottenvcr/status/1576616857552814082"/>
+        <updated>2022-10-02T16:55:25.000Z</updated>
+        <summary type="html"><![CDATA[pic.twitter.com/fAOWqoA0U8
+— 𝙁𝙊𝙍𝙂𝙊𝙏𝙏𝙀𝙉_𝙑𝘾𝙍 (@forgottenvcr) October 2, 2022]]></summary>
+        <author>
+            <name>@forgottenvcr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[@forgottenvcr: 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎𝙏𝙊𝙉𝙄𝙂𝙃𝙏 𝘼𝙏 8:30 𝘾𝙀𝙉𝙏𝙍𝘼𝙇 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎]]></title>
         <id>1cf8bf35b3e057bebf61004feccceded</id>
